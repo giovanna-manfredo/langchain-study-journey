@@ -17,6 +17,8 @@ pylance = "^0.20.0"
 langserve = {extras = ["all"], version = "^0.3.1"}
 aiosqlite = "^0.20.0"
 greenlet = "^3.1.1"
+tiktoken = "^0.8.0"
+langchain-experimental = "^0.3.4"
 
 
 [tool.poetry.group.dev.dependencies]
